@@ -5,7 +5,6 @@
 This project demonstrates an end-to-end real-time data engineering pipeline that collects weather data from the OpenWeather API, streams it through Apache Kafka, stores it in MySQL, and visualizes insights using Power BI.
 
 The objective of this project is to simulate a real-world streaming data pipeline and understand how data moves through different layers of a modern data engineering architecture.
-
 ---
 
 ## Architecture
