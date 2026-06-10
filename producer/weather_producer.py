@@ -14,7 +14,7 @@ value_serializer=lambda x: json.dumps(x).encode('utf-8')
 
 )
 
-API_KEY="fa0693990efe0eb39597a7155ee84143"
+API_KEY="Enter your Weather api key here"
 
 while True:
 
