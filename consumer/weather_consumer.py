@@ -8,7 +8,7 @@ from urllib.parse import quote_plus
 
 import json
 
-password = quote_plus("Ranjeet@143")   # apna actual password
+password = quote_plus("Enter Mysql Password")   # apna actual password
 
 engine=create_engine(
 
